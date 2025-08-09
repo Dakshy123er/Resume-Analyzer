@@ -1,14 +1,5 @@
 <div align="center">
-  <br />
-    <img src="public/readme/hero.webp" alt="Project Banner">
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/React-4c84f3?style=for-the-badge&logo=react&logoColor=white" />
-    <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Puter.js-181758?style=for-the-badge&logoColor=white" />
-  </div>
+  
 
   <h3 align="center">🚀 AI Resume Analyzer</h3>
 
@@ -73,3 +64,6 @@ Make sure you have installed:
 ```bash
 git clone https://github.com/Dakshy123er/Resume-Analyzer.git
 cd Resume-Analyzer
+npm install
+npm run dev
+Open http://localhost:5173 in your browser.
