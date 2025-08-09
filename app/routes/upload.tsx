@@ -97,7 +97,7 @@ const Upload = () => {
                         <form id="upload-form" onSubmit={handleSubmit} className="flex flex-col gap-4 mt-8">
                             <div className="form-div">
                                 <label htmlFor="company-name">Your Name</label>
-                                <input type="text" name="company-name" placeholder="Eg:Daksh Yadav" id="company-name" />
+                                <input type="text" name="company-name" placeholder="Eg: Daksh Yadav" id="company-name" />
                             </div>
                             <div className="form-div">
                                 <label htmlFor="job-title">Job Title</label>
